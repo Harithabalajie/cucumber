@@ -1,0 +1,60 @@
+17:41:55.380 [main] INFO  factory.BaseClass - ***Navigates to HomePage***
+17:41:55.390 [main] INFO  factory.BaseClass - ***Hovering to Insurance menu***
+17:41:55.563 [main] INFO  factory.BaseClass - ***Printing the list of Health Insurances***
+17:42:03.167 [main] INFO  factory.BaseClass - ***Navigates to CarInsurance Page***
+17:42:03.370 [main] INFO  factory.BaseClass - ***Proceeding without entering the car number***
+17:42:05.479 [main] INFO  factory.BaseClass - ***Selecting city and rto***
+17:42:06.385 [main] INFO  factory.BaseClass - ***Selecting car brand***
+17:42:06.812 [main] INFO  factory.BaseClass - ***Selecting the car model and fuel type***
+17:42:10.408 [main] INFO  factory.BaseClass - ***Selecting the car variant***
+17:42:10.757 [main] INFO  factory.BaseClass - ***Filling out the details with invalid email_id***
+17:42:11.298 [main] INFO  factory.BaseClass - ***Capturing the error message***
+22:25:56.832 [main] INFO  factory.BaseClass - ***Navigates to HomePage***
+22:25:56.862 [main] INFO  factory.BaseClass - ***Hovering to Insurance menu***
+22:25:57.203 [main] INFO  factory.BaseClass - ***Printing the list of Health Insurances***
+22:35:40.749 [main] INFO  factory.BaseClass - ***Opening Travel Insurance Page***
+22:35:41.293 [main] INFO  factory.BaseClass - ***Entering the destination Place***
+22:35:47.013 [main] INFO  factory.BaseClass - ***Navigates to next page***
+22:35:47.280 [main] INFO  factory.BaseClass - ***Selecting the Start and End date***
+22:35:49.014 [main] INFO  factory.BaseClass - ***Selecting the no of peoples and age***
+22:35:50.841 [main] INFO  factory.BaseClass - ***Selecting the medical condition***
+22:35:51.780 [main] INFO  factory.BaseClass - ***Entering the mobile number***
+22:35:54.252 [main] INFO  factory.BaseClass - ***Clicking on viewplans***
+22:36:00.206 [main] INFO  factory.BaseClass - ***Printing the three lowest travel insurance plan for students***
+22:36:35.476 [main] INFO  factory.BaseClass - ***Navigates to HomePage***
+22:36:35.480 [main] INFO  factory.BaseClass - ***Hovering to Insurance menu***
+22:36:35.760 [main] INFO  factory.BaseClass - ***Printing the list of Health Insurances***
+22:36:47.309 [main] INFO  factory.BaseClass - ***Opening Travel Insurance Page***
+22:36:48.317 [main] INFO  factory.BaseClass - ***Entering the destination Place***
+22:36:54.701 [main] INFO  factory.BaseClass - ***Navigates to next page***
+22:36:55.010 [main] INFO  factory.BaseClass - ***Selecting the Start and End date***
+22:36:56.511 [main] INFO  factory.BaseClass - ***Navigates to CarInsurance Page***
+22:36:57.540 [main] INFO  factory.BaseClass - ***Selecting the no of peoples and age***
+22:36:57.682 [main] INFO  factory.BaseClass - ***Proceeding without entering the car number***
+22:37:00.299 [main] INFO  factory.BaseClass - ***Selecting the medical condition***
+22:37:01.284 [main] INFO  factory.BaseClass - ***Entering the mobile number***
+22:37:03.567 [main] INFO  factory.BaseClass - ***Clicking on viewplans***
+22:37:06.897 [main] INFO  factory.BaseClass - ***Selecting city and rto***
+22:37:08.458 [main] INFO  factory.BaseClass - ***Selecting car brand***
+22:37:09.425 [main] INFO  factory.BaseClass - ***Selecting the car model and fuel type***
+22:37:09.679 [main] INFO  factory.BaseClass - ***Printing the three lowest travel insurance plan for students***
+22:37:13.841 [main] INFO  factory.BaseClass - ***Selecting the car variant***
+22:37:14.921 [main] INFO  factory.BaseClass - ***Filling out the details with invalid email_id***
+22:37:17.647 [main] INFO  factory.BaseClass - ***Capturing the error message***
+22:37:26.721 [main] INFO  factory.BaseClass - ***Navigates to HomePage***
+22:37:26.732 [main] INFO  factory.BaseClass - ***Hovering to Insurance menu***
+22:37:35.064 [main] INFO  factory.BaseClass - ***Navigates to CarInsurance Page***
+22:38:37.855 [main] INFO  factory.BaseClass - ***Navigates to HomePage***
+22:38:37.870 [main] INFO  factory.BaseClass - ***Hovering to Insurance menu***
+22:38:38.251 [main] INFO  factory.BaseClass - ***Printing the list of Health Insurances***
+22:38:57.298 [main] INFO  factory.BaseClass - ***Navigates to CarInsurance Page***
+22:38:57.700 [main] INFO  factory.BaseClass - ***Proceeding without entering the car number***
+22:39:01.109 [main] INFO  factory.BaseClass - ***Selecting city and rto***
+22:39:02.651 [main] INFO  factory.BaseClass - ***Selecting car brand***
+22:39:03.422 [main] INFO  factory.BaseClass - ***Selecting the car model and fuel type***
+22:39:07.097 [main] INFO  factory.BaseClass - ***Selecting the car variant***
+22:39:07.894 [main] INFO  factory.BaseClass - ***Filling out the details with invalid email_id***
+22:39:09.022 [main] INFO  factory.BaseClass - ***Capturing the error message***
+00:28:23.450 [main] INFO  factory.BaseClass - ***Opening Travel Insurance Page***
+00:28:23.714 [main] INFO  factory.BaseClass - ***Entering the destination Place***
+00:28:26.676 [main] INFO  factory.BaseClass - ***Navigates to next page***
